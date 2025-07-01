@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Selenium Cucumber Framework
 
 ---
@@ -54,3 +55,7 @@ cucumber.publish.enabled=true
 * https://www.toolsqa.com/cucumber-automation-framework/
 * https://www.w3schools.com/java/
 * https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
+=======
+# SeleniumCumcumber
+This repository contains test code for practicing java selenium with cucumber framework
+>>>>>>> branch 'main' of https://github.com/ZeroManual/SeleniumCumcumber.git
